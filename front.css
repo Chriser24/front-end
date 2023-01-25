@@ -1,0 +1,29 @@
+*{
+    
+    font-family: cursive;
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    margin: 80px;
+    padding: auto;
+    text-align: center;
+    border:  solid 2px;
+    border-radius: 8px;
+    background-color:lightblue;
+}
+
+.container-table{
+    margin-top: 20px;
+    border: solid 2px;
+    margin: 40px;
+    height: 65px;
+    background-color:lightblue;
+    
+}
+
+.barraLateral{
+    font-size: 20px;
+    
+    
+}
